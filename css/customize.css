@@ -1,0 +1,9 @@
+.text1 {
+    font-family: XiDengXianFan;
+
+}
+
+@font-face {
+    font-family: XiDengXianFan;
+    src: url('../font/JingDianXiDengXianFan.ttf');
+}
